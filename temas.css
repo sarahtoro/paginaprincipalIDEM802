@@ -1,0 +1,38 @@
+.contenedor{
+
+
+    width: 100%;
+    height: 1400px;
+    background-color: mediumblue;
+}
+.encabezado{
+    width: 100%;
+    height: 150px;
+background-color: steelblue;
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color: lightskyblue;
+}
+.contenedor2{
+    width: 100%;
+    height: 1200px;
+    background-color: paleturquoise;
+    display: flex;
+}
+.izquierda{
+    width: 20%;
+    height: 1200px;
+    background-color: palevioletred;
+}
+.centro{
+    width: 60%;
+    height: 1200px;
+    background-color: purple;
+}
+.derecho{
+    width: 20%;
+    height: 1200px;
+    background-color: slateblue;
+}
